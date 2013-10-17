@@ -9,5 +9,8 @@ digits of the operands and not their magnitudes.
 Strings have been used to generate the complete results, otherwise left to right calculation is used for only the specified 
 number of significant digits.
 This repository only contains a part of the project source code.Rest of the methods will be merged later. This project will
-be further expanded and continuosly modified for helping reduce the cost of computation with other speed maths techniques.
+be further expanded and continuosly modified for helping reduce the cost of computation with other speed maths techniques,
+time, memory and energy wise. This project will also be written in various other programming languages like python, C, C++,
+perl etc. to extend the benefit to as many developers as possible who need high-precision at the software level for 
+scientific. financial or other applications.
 
