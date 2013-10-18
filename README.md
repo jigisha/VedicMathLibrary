@@ -14,3 +14,5 @@ time, memory and energy wise. This project will also be written in various other
 perl etc. to extend the benefit to as many developers as possible who need high-precision at the software level for 
 scientific. financial or other applications.
 
+***** COPYWRITE IN PROGRESS *****
+
