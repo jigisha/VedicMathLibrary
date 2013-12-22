@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * to dos:
  * left-to-right calculation
- * floating point numbers.
+ * store upto 20! for factorial calculations.
  * +ve and -ve operands.
  * removal of grid in mul.
  * time, space and energy optimization.
